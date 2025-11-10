@@ -1,0 +1,17 @@
+# Core frameworks
+torch
+torchvision
+opacus
+
+# Security
+cryptography
+
+# Evaluation & Utilities
+scikit-learn
+matplotlib
+numpy
+jupyterlab
+opencv-python-headless
+
+# Explainability
+git+https://github.com/jacobgil/pytorch-grad-cam.git
