@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data & outputs
+fl_xray_project/dataset_root/
+*.log
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.npy
+*.npz
+*.pkl
+
+# Images produced by experiments
+fl_xray_project/*.png
+fl_xray_project/**/*.png
+
+# IDE
+.vscode/
+.idea/
